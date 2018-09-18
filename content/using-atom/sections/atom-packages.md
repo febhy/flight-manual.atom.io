@@ -65,7 +65,7 @@ You can also install packages by using the `apm install` command:
 For example `apm install emmet@0.1.5` installs the `0.1.5` release of the [Emmet](https://github.com/atom/emmet) package.
 
 You can also use `apm` to find new packages to install. If you run `apm search`, you can search the package registry for a search term.
-
+Update atom packages:update atom packages
 ``` command-line
 $ apm search coffee
 > Search Results For 'coffee' (29)
@@ -89,6 +89,6 @@ $ apm view build-coffee
 > ├── Atom Build provider for coffee, compiles CoffeeScript
 > ├── 1152 downloads
 > └── 2 stars
-> 
+> update atom packages.md
 > Run `apm install build-coffee` to install this package.
-```
+```update atom packages: apdate atom packages
